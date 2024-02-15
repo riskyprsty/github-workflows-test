@@ -39,5 +39,6 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           script: |
-            cd ~/apps
-            touch issucce.d
+            cd ~/apps/tribot-ts
+            pnpm install
+            pnpm build
