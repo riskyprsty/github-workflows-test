@@ -8,6 +8,7 @@ Kebutuhan tiap-tiap orang juga berbeda, misalnya untuk keperluan monitoring IoT,
 
 ## GitHub Actions
 
+
 Singkatnya, Github Actions merupakan salah satu fitur pada GitHub untuk mengimplementasikan CI/CD dalam sebuah repository, contohnya melakukan testing, build, dan auto-deployment secara otomatis.
 
 Selengkapnya mengenai GitHub Actions dapat dibaca pada dokumentasi berikut :
